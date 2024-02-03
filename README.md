@@ -9,7 +9,8 @@ This project focuses on analyzing energy usage and greenhouse gas (GHG) emission
 Data Understanding:
 The dataset encompasses information about BPS organizations, including public hospitals and school boards. Key attributes cover organization details, operational information, energy consumption data, and GHG emissions.
 
-Dataset Link: Dataset
+
+Dataset Link: [Dataset](https://data.ontario.ca/dataset/energy-use-and-greenhouse-gas-emissions-for-the-broader-public-sector)
 
 Key Features:
 
